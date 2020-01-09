@@ -1,0 +1,43 @@
+.jumbotron-new1 {
+	margin-bottom: 0rem; 
+	padding: 2rem 2rem;
+}
+
+.br{
+	padding-top: 3rem;
+	clear: both;
+}	
+
+div.col p{
+	font-size: 20px;
+}
+
+.nav-bar-color{
+	background-color: #272B30;
+}
+.a-text-color-white{
+	color: white;	
+}
+nav a:hover{
+	color: #b3b3b3;	
+}
+table{
+	border: 1px solid black;
+}
+
+/*footer css*/
+.img-foot{
+	width: 100%
+}
+.container-foot {
+	position: relative;
+	text-align: center;
+	color: white;
+	padding-top: 100px;
+	}
+.bottom-right {
+	position: absolute;
+	text-align: right;
+	bottom: 0px;
+	right: 78px;
+	}
